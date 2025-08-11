@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toyoda05&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Toyoda05&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Toyoda05&theme=tokyonight&utcOffset=9" height="170" />
 </p>
 
