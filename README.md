@@ -48,7 +48,7 @@
  
   <p align="left">
   <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
-    <img src="【1つ目のバッジ画像URL】" alt="G検定 (JDLA Deep Learning for GENERAL) 合格" width="120" />
+    <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png" alt="G検定 (JDLA Deep Learning for GENERAL) 合格" width="120" />
   </a>
   <!--<a href="【2つ目の証明ページのURL】"                                                -->
   <!--  <img src="【2つ目のバッジ画像URL】" alt="【2つ目のバッジ名】" width="120" />        -->
