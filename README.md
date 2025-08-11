@@ -46,7 +46,7 @@
 
 ## 🏅 Certification
  
- <div align="left">
+
   <div style="display: inline-block; text-align: center; margin: 16px;">
     <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09" style="text-decoration: none;">
       <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png" alt="G検定2025#4" width="120" />
@@ -54,22 +54,24 @@
       <strong>G検定 2025 #4</strong>
     </a>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 16px;">
-    <a href="【2つ目の証明ページのURL】" style="text-decoration: none;">
-      <img src="【2つ目のバッジ画像URL】" alt="【2つ目のバッジ名】" width="120" />
-      <br />
-      <strong>【2つ目の資格名】</strong>
-    </a>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 16px;">
-    <a href="【3つ目の証明ページのURL】" style="text-decoration: none;">
-      <img src="【3つ目のバッジ画像URL】" alt="【3つ目のバッジ名】" width="120" />
-      <br />
-      <strong>【3つ目の資格名】</strong>
-    </a>
-  </div>
-  </div>
 
+
+  <div align="left">
+  <div style="display: inline-block; text-align: center; margin: 16px;">
+    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
+      <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png" alt="G検定2025#4" width="120" />
+    </a>
+    <br />
+    <strong>G検定 2025 #4</strong>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 16px;">
+    <a href="【2つ目の証明ページのURL】">
+      <img src="【2つ目のバッジ画像URL】" alt="【2つ目のバッジ名】" width="120" />
+    </a>
+    <br />
+    <strong>【2つ目の資格名】</strong>
+  </div>
+  </div>
 ---
 
 ## 🌐 Connect with Me
