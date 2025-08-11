@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- プロフィール用 README.md -->
 
-<!--
-**Toyoda05/Toyoda05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome to Toyoda05's GitHub Profile! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>C++, Python, Java を中心に開発中の学生エンジニア</strong><br>
+  F3RCロボコンの機体プログラミングや、Pythonによる機械学習の勉強に取り組んでいます。<br>
+  Gitを活用したチーム開発も実践中です。
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 学生エンジニア
+- 🤖 F3RCロボコン：C++で機体制御プログラムを開発中
+- 📊 機械学習：Pythonでモデル構築・分類・回帰を学習中
+- 🛠️ Git操作を習得し、効率的な開発を実践
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toyoda05&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toyoda05&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toyoda05&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Toyoda05&theme=tokyonight&utcOffset=9" height="170" />
+</p>
+
+---
+
+## 🏅 Certification
+
+- ✅ G検定 (JDLA Deep Learning for GENERAL) 合格
+- 🥇 Open Badge：  
+  <img src="https://w7.pngwing.com/pngs/248/567/png-transparent-openbadges-badge-award-certification-education-open-badge.png" alt="Open Badge" height="80" />
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Toyoda05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://qiita.com/YOUR_QIITA_ID">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_ID">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Toyoda05&color=blue&style=flat-square" />
+</p>
