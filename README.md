@@ -72,18 +72,21 @@
   <a href="https://github.com/Toyoda05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://qiita.com/YOUR_QIITA_ID">
+  <a href="https://qiita.com/Toyoda05">
     <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_ID">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://atcoder.jp/users/ToyoPon">
+  <img src="https://img.shields.io/badge/AtCoder-2D88C8?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID">
+<!--   <a href="https://www.instagram.com/YOUR_INSTAGRAM_ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> -->
+<!--   <a href="https://twitter.com/YOUR_TWITTER_ID">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
