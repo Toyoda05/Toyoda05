@@ -46,22 +46,23 @@
 
 ## 🏅 Certification
  
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin: 16px;">
+<div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;">
+  <div style="text-align:center;">
     <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
-      <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png" alt="G検定2025#4" width="120" />
+      <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png?raw=true" alt="G検定2025#4" width="120">
     </a>
-    <br />
+    <br>
     <strong>G検定 2025 #4</strong>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 16px;">
+  <div style="text-align:center;">
     <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
-      <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png" alt="G検定2025#4" width="120" />
+      <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png?raw=true" alt="G検定2025#4" width="120">
     </a>
-    <br />
+    <br>
     <strong>G検定 2025 #4</strong>
   </div>
 </div>
+
 ---
 
 ## 🌐 Connect with Me
