@@ -19,17 +19,6 @@
 
 ---
 
-## 🛠️ Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 
@@ -63,6 +52,33 @@
     <strong>G検定 2025 #4</strong>
   </div>  -->
 </div>
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  
+</p>
+
+---
+
+## 💻 Using IDE
+<p align="center">
+  <a href="https://github.com/Toyoda05">
+    <img src="https://img.shields.io/badge/AndroidStudio-A4CA39?style=for-the-badge&logo=AndroidStudio&logoColor=white" />
+  </a>
+  <a href="https://github.com/Toyoda05">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
