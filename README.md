@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills＆UsingIDE
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -66,10 +66,6 @@
   
   
 </p>
-
----
-
-## 💻 Using IDE
 <p align="center">
   <a href="https://github.com/Toyoda05">
     <img src="https://img.shields.io/badge/AndroidStudio-A4CA39?style=for-the-badge&logo=AndroidStudio&logoColor=white" />
