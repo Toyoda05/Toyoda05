@@ -19,17 +19,27 @@
 
 ---
 
-## 📈 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toyoda05&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toyoda05&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toyoda05&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Toyoda05&theme=tokyonight&utcOffset=9" height="170" />
+  <a href="https://github.com/Toyoda05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://qiita.com/Toyoda05">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+  </a>
+  <a href="https://atcoder.jp/users/ToyoPon">
+  <img src="https://img.shields.io/badge/AtCoder-2D88C8?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+<!--   <a href="https://www.instagram.com/YOUR_INSTAGRAM_ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> -->
+<!--   <a href="https://twitter.com/YOUR_TWITTER_ID">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a> -->
 </p>
 
 ---
@@ -37,20 +47,27 @@
 ## 🏅 Certification
  
 <div style="display:flex; gap:16px; align-items:flex-start; justify-content:flex-start; flex-wrap:wrap; text-align:center;">
-  <div>
-    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
-      <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png?raw=true" alt="G検定2025#4" width="110">
-    </a>
-    <br>
-    <strong>G検定 2025 #4</strong>
-  </div>
-<!--   <div>
-    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
-      <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png?raw=true" alt="G検定2025#4" width="110">
-    </a>
-    <br>
-    <strong>G検定 2025 #4</strong>
-  </div>  -->
+  <table>
+    <tr>
+      <td>
+        <div>
+          <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
+            <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png?raw=true" alt="G検定2025#4" width="110">
+          </a>
+          <br>
+          <strong>G検定 2025 #4</strong>
+        </div>
+      </td>
+<!--       <td>
+        <div>
+          <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
+            <img src="https://github.com/Toyoda05/Toyoda05/blob/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png?raw=true" alt="G検定2025#4" width="110">
+          </a>
+          <br>
+          <strong>G検定 2025 #4</strong>
+        </div>
+    </tr> -->
+  </table>
 </div>
 
 ---
@@ -78,28 +95,21 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📈 GitHub Stats
+
 
 <p align="center">
-  <a href="https://github.com/Toyoda05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://qiita.com/Toyoda05">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
-  </a>
-  <a href="https://atcoder.jp/users/ToyoPon">
-  <img src="https://img.shields.io/badge/AtCoder-2D88C8?style=for-the-badge&logo=atcoder&logoColor=white" />
-  </a>
-<!--   <a href="https://www.instagram.com/YOUR_INSTAGRAM_ID">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
-<!--   <a href="https://twitter.com/YOUR_TWITTER_ID">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Toyoda05&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toyoda05&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toyoda05&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Toyoda05&theme=tokyonight&utcOffset=9" height="170" />
+</p>
+
+
+
 
 ---
 
