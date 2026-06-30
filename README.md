@@ -9,13 +9,6 @@
 
 ---
 
-## 🚀 About Me
-- 🤖 ロボコン：C++で機体制御プログラムを開発中
-- 📊 機械学習：Pythonでモデル構築・分類・回帰を学習中
-- 🛠️ Git操作を習得し、効率的な開発を実践
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/Toyoda05">
