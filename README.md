@@ -1,92 +1,72 @@
 <!-- プロフィール用 README.md -->
 
-<h1 align="center">Welcome to Toyoda05's GitHub Profile! </h1>
+<h1 align="center">Welcome to Toyoda05's GitHub Profile!</h1>
 
 <p align="center">
   ロボコンの機体プログラミングや、Pythonによる機械学習の勉強に取り組んでいます。<br>
   Gitを活用したチーム開発も実践中です。
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Toyoda05&color=blue&style=flat-square" alt="Profile views" />
+</p>
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/Toyoda05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://qiita.com/Toyoda05">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
-  </a>
-  <a href="https://atcoder.jp/users/ToyoPon">
-  <img src="https://img.shields.io/badge/AtCoder-2D88C8?style=for-the-badge&logo=atcoder&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🏅 Certification
- 
-<div style="display: flex; gap: 16px; align-items: flex-start; justify-content: flex-start; flex-wrap: wrap;">
-  <table>
-    <tr>
-      <td style="text-align: center; vertical-align: top;">
-        <div style="display: inline-block;">
-          <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
-            <img src="https://raw.githubusercontent.com/Toyoda05/Toyoda05/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png" alt="G検定2025#4" width="110">
-          </a>
-          <br>
-          <strong>G検定 2025 #4</strong>
-        </div>
-      </td>
-      <td style="text-align: center; vertical-align: top;">
-        <div style="display: inline-block;">
-          <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">
-            <img src="https://github.com/user-attachments/assets/b112223d-931b-44b7-96c3-44bb5f8718cd" alt="応用情報技術者" width="110">
-          </a>
-          <br>
-          <strong>応用情報技術者</strong>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠️ Skills＆UsingIDE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-<p align="center">
-  <a href="https://github.com/Toyoda05">
-    <img src="https://img.shields.io/badge/AndroidStudio-A4CA39?style=for-the-badge&logo=AndroidStudio&logoColor=white" />
-  </a>
-  <a href="https://github.com/Toyoda05">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </a>
+  <a href="https://github.com/Toyoda05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://qiita.com/Toyoda05"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+  <a href="https://atcoder.jp/users/ToyoPon"><img src="https://img.shields.io/badge/AtCoder-2D88C8?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" /></a>
 </p>
 
----
+## 🏅 Certifications
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cmpweGtlYVpwNjhhTjBBUThKTm00Zz09">
+        <img src="https://raw.githubusercontent.com/Toyoda05/Toyoda05/main/img/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%234_image.png" alt="G検定 2025 #4" width="110" height="110">
+      </a>
+      <br>
+      <strong>G検定</strong><br>
+      <sub>2025 #4</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">
+        <img src="https://github.com/user-attachments/assets/b112223d-931b-44b7-96c3-44bb5f8718cd" alt="応用情報技術者" width="110" height="110">
+      </a>
+      <br>
+      <strong>応用情報技術者</strong><br>
+      <sub>IPA</sub>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Skills & Tools
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+<p align="center"><b>Tools / IDE</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toyoda05&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toyoda05&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Toyoda05&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toyoda05&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toyoda05&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Toyoda05&theme=tokyonight&utcOffset=9" height="170" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toyoda05&color=blue&style=flat-square" />
+  <img src="https://streak-stats.demolab.com/?user=Toyoda05&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Toyoda05&theme=tokyonight&utcOffset=9" height="165" alt="Productive Time" />
 </p>
