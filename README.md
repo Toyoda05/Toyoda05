@@ -5,7 +5,7 @@
 <p align="center">
   ロボコンの機体プログラミングや、Pythonによる機械学習の勉強に取り組んでいます。<br>
   Gitを活用したチーム開発も実践中です。<br>
-  <b>OpenAI Student Collective, Japan (1st cohort)</b> に採用されました。
+  <a href="https://openai.com/ja-JP/student-collective/"><b>OpenAI Student Collective</b></a><b>, Japan (1st cohort)</b> に採用されました。
 </p>
 
 <p align="center">
@@ -27,7 +27,9 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="170">
-      <picture><img src="https://raw.githubusercontent.com/Toyoda05/Toyoda05/main/img/openai-student-collective-badge.png" alt="OpenAI Student Collective" width="110" height="110"></picture>
+      <a href="https://openai.com/ja-JP/student-collective/">
+        <img src="https://raw.githubusercontent.com/Toyoda05/Toyoda05/main/img/openai-student-collective-badge.png" alt="OpenAI Student Collective" width="110" height="110">
+      </a>
       <br>
       <strong>OpenAI Student Collective</strong><br>
       <sub>Japan (1st cohort)</sub>
