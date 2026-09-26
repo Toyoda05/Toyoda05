@@ -5,7 +5,7 @@
 <p align="center">
   ロボコンの機体プログラミングや、Pythonによる機械学習の勉強に取り組んでいます。<br>
   Gitを活用したチーム開発も実践中です。<br>
-  <a href="https://openai.com/ja-JP/student-collective/"><b>OpenAI Student Collective</b></a><b>, Japan (1st cohort)</b> に採用されました。
+  <b>OpenAI Student Collective, Japan (1st cohort)</b> に採用されました。
 </p>
 
 <p align="center">
