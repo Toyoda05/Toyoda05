@@ -64,8 +64,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toyoda05&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toyoda05&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Toyoda05&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Toyoda05&theme=tokyonight" height="165" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
