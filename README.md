@@ -14,11 +14,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Toyoda05"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://huggingface.co/Toyoda05"><img src="https://img.shields.io/badge/Hugging%20Face-21262D?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
-  <a href="https://x.com/Toyoda05"><img src="https://img.shields.io/badge/X-21262D?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://qiita.com/Toyoda05"><img src="https://img.shields.io/badge/Qiita-21262D?style=for-the-badge&logo=qiita&logoColor=55C500" alt="Qiita" /></a>
-  <a href="https://atcoder.jp/users/ToyoPon"><img src="https://img.shields.io/badge/AtCoder-21262D?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" /></a>
+  <a href="https://github.com/Toyoda05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://huggingface.co/Toyoda05"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://x.com/Toyoda05"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://qiita.com/Toyoda05"><img src="https://img.shields.io/badge/Qiita-3D8F00?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+  <a href="https://atcoder.jp/users/ToyoPon"><img src="https://img.shields.io/badge/AtCoder-2D6FA8?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" /></a>
 </p>
 
 ## 🏅 Certifications
@@ -48,17 +48,17 @@
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-21262D?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-21262D?style=for-the-badge&logo=dotnet&logoColor=A179DC" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <picture><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></picture>
+  <picture><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" /></picture>
+  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></picture>
+  <picture><img src="https://img.shields.io/badge/Java-B85C00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></picture>
 </p>
 
 <p align="center"><b>Tools / IDE</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Android%20Studio-21262D?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-21262D?style=for-the-badge&logo=visualstudiocode&logoColor=23A9F2" alt="VS Code" />
+  <picture><img src="https://img.shields.io/badge/Git-D63F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></picture>
+  <picture><img src="https://img.shields.io/badge/Android%20Studio-2E8B57?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" /></picture>
+  <picture><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></picture>
 </p>
 
 ## 📈 GitHub Stats
