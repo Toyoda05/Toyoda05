@@ -16,9 +16,9 @@
 <p align="center">
   <a href="https://github.com/Toyoda05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://huggingface.co/Toyoda05"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://x.com/Toyoda05"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://qiita.com/Toyoda05"><img src="https://img.shields.io/badge/Qiita-3D8F00?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://atcoder.jp/users/ToyoPon"><img src="https://img.shields.io/badge/AtCoder-2D6FA8?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" /></a>
+  <a href="https://x.com/Toyoda05"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ## 🏅 Certifications
